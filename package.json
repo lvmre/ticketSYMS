@@ -1,0 +1,23 @@
+{
+  "name": "ticketsyms",
+  "version": "1.0.0",
+  "description": "ticketSYMS is a comprehensive, user-friendly platform designed to simplify event management and ticketing for organizers and attendees. Whether you’re hosting a local meetup, a large-scale concert, or an online webinar, ticketSYMS provides all the tools you need to create, manage, and promote events seamlessly.",
+  "keywords": [
+    "ticketSYMS"
+  ],
+  "homepage": "https://github.com/lvmre/ticketSYMS#readme",
+  "bugs": {
+    "url": "https://github.com/lvmre/ticketSYMS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvmre/ticketSYMS.git"
+  },
+  "license": "MIT",
+  "author": "Lord LVMRE",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

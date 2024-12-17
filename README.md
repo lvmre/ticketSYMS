@@ -1,2 +1,0 @@
-# ticketSYMS
-Ticket Sales System
